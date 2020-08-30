@@ -1,0 +1,14 @@
+br/com/alyson/core/repository/ProdutoRepository.class
+br/com/alyson/core/model/Especie.class
+br/com/alyson/core/repository/EspecieRepository.class
+br/com/alyson/core/repository/EnderecoRepository.class
+br/com/alyson/core/model/Pessoa.class
+br/com/alyson/core/repository/CategoriaRepository.class
+br/com/alyson/core/model/Produto.class
+br/com/alyson/core/model/Categoria.class
+br/com/alyson/core/model/Endereco.class
+br/com/alyson/core/repository/ProcessoRepository.class
+br/com/alyson/core/config/WebConfig.class
+br/com/alyson/core/repository/PessoaRepository.class
+br/com/alyson/core/model/Processo.class
+br/com/alyson/core/config/PersistenceConfig.class

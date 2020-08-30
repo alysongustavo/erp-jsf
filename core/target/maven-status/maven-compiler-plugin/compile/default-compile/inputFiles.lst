@@ -1,0 +1,14 @@
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Especie.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Endereco.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Processo.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/ProdutoRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Produto.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/EnderecoRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/ProcessoRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Categoria.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/PessoaRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/config/WebConfig.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/config/PersistenceConfig.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/CategoriaRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/repository/EspecieRepository.java
+/home/alyson/IdeaProjects/erpjsfpratica/core/src/main/java/br/com/alyson/core/model/Pessoa.java

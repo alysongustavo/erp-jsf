@@ -1,0 +1,3 @@
+br/com/alyson/webservice/init/ApplicationInitializer.class
+br/com/alyson/webservice/resources/CategoriaResource.class
+br/com/alyson/webservice/config/RestConfig.class
